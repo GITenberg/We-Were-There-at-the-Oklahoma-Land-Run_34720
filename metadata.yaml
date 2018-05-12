@@ -1,0 +1,43 @@
+_repo: We-Were-There-at-the-Oklahoma-Land-Run_34720
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kenyon, Chris A.
+    gutenberg_agent_id: '37189'
+    url: http://www.gutenberg.org/2009/agents/37189
+  other_contributor:
+    agent_name: Lottinville, Savoie
+    birthdate: 1906
+    deathdate: 1997
+    gutenberg_agent_id: '37022'
+    url: http://www.gutenberg.org/2009/agents/37022
+covers:
+- cover_type: archival
+  image_path: 34720-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kjelgaard, Jim
+    aliases:
+    - Elgard, Jim
+    - Kjelgaard, James Arthur
+    birthdate: 1910
+    deathdate: 1959
+    gutenberg_agent_id: '37042'
+    url: http://www.gutenberg.org/2009/agents/37042
+    wikipedia: http://en.wikipedia.org/wiki/Jim_Kjelgaard
+description: Three children contribute to their family's quest for a homestead after
+  the signal for the claims race is fired prematurely.
+gutenberg_issued: '2010-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34720'
+  lccn: '57005035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Oklahoma -- History -- Land Rush, 1889 -- Juvenile fiction'
+title: We Were There at the Oklahoma Land Run
+url: http://www.gutenberg.org/ebooks/34720
